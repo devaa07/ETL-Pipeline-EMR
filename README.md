@@ -47,3 +47,4 @@ Automate EMR ETL Jobs with Airflow
 
 ![Screen Shot 2024-01-02 at 11 16 44 PM](https://github.com/devaa07/ETL-Pipeline-EMR-/assets/126756574/7b2ca771-610b-4567-9d57-b7d016e58e90)
 
+See the Snow pipe steps in other code repo.
